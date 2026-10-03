@@ -1,9 +1,9 @@
 {
-  "name": "USB3_19Pin-Expansion-Board-Project",
+  "name": "USB3_19Pin-Expansion-Board-Project_copy",
   "owner_uuid": "1ae07b8742964756beb3a4649f081176",
   "creator_uuid": "1ae07b8742964756beb3a4649f081176",
-  "created_at": "2026-10-01 14:30:36",
-  "updated_at": "2026-10-01 14:30:36",
+  "created_at": "2026-10-03 20:59:01",
+  "updated_at": "2026-10-03 20:59:01",
   "modifier_uuid": "1ae07b8742964756beb3a4649f081176",
   "content": "",
   "archive": false,
@@ -13,10 +13,11 @@
   "g_ticket": 1,
   "boards": [],
   "block_symbol_attrs_groups": {},
-  "default_sheet": "bea992b31b6a5359",
+  "default_sheet": "",
   "branch_uuid": "",
   "pcb_count": 0,
   "format": "folder",
+  "config": "{\"type\":\"DOCHEAD\"}||{\"docType\":\"BOARD\",\"client\":\"4d757e4c85d3ed65\",\"uuid\":\"68fac588bd1a3f71\",\"updateTime\":1791027569090,\"version\":\"1791027569090\",\"editVersion\":\"4.1.60\",\"user\":{}}|\n{\"type\":\"META\",\"ticket\":2,\"id\":\"META\"}||{\"title\":\"Board1\",\"zIndex\":1}|\n{\"type\":\"DOCHEAD\"}||{\"docType\":\"CONFIG\",\"client\":\"4d757e4c85d3ed65\",\"uuid\":\"CONFIG\",\"updateTime\":1791027569087,\"version\":\"1791027569087\",\"editVersion\":\"4.1.60\",\"user\":{\"uuid\":\"1ae07b8742964756beb3a4649f081176\",\"nickname\":\"\",\"username\":\"\"}}|\n{\"type\":\"META\",\"ticket\":1,\"id\":\"META\"}||{\"defaultSheet\":\"bea992b31b6a5359\"}",
   "profile": {
     "boards": {
       "68fac588bd1a3f71": {
@@ -31,8 +32,8 @@
         "name": "Schematic1",
         "board": "68fac588bd1a3f71",
         "source": "",
-        "version": "1791018411983",
-        "updateTime": 1791018411983
+        "version": "1790925183934",
+        "updateTime": 1790925183934
       }
     },
     "sheets": {
@@ -42,19 +43,20 @@
         "schematic_uuid": "8a2eeca404bc37b2",
         "zIndex": 1,
         "source": "",
-        "version": "1791018411983",
-        "updateTime": 1791018411983
+        "version": "1790925184764",
+        "updateTime": 1790925184764
       }
     },
     "pcbs": {
-      "5c8ffb6c674d8845": {
-        "uuid": "5c8ffb6c674d8845",
+      "14a8ecd069a5abfa": {
+        "uuid": "14a8ecd069a5abfa",
         "title": "PCB_USB3_Expansion_backup_before_layout",
-        "board": "68fac588bd1a3f71",
+        "board": "",
+        "zIndex": null,
         "parent_uuid": "",
         "source": "",
-        "version": "1791018388005",
-        "updateTime": 1791018388005
+        "version": "1791032221080",
+        "updateTime": 1791032221080
       }
     },
     "panels": {
@@ -66,31 +68,7 @@
     },
     "blockSymbols": {},
     "owner": {
-      "uuid": "1ae07b8742964756beb3a4649f081176"
-    },
-    "simSchematics": {
-      "ac83c622f00bfa11": {
-        "uuid": "ac83c622f00bfa11",
-        "title": "Simulation1",
-        "source": "",
-        "version": "1791017145072",
-        "updateTime": 1791017145072
-      }
-    },
-    "simulations": {
-      "dd3f825d3df4d5bc": {
-        "uuid": "dd3f825d3df4d5bc",
-        "title": "USB3_Simulation",
-        "simSchematic": "ac83c622f00bfa11",
-        "docType": 8,
-        "zIndex": 1,
-        "source": "",
-        "version": "1791017145072"
-      }
+      "uuid": ""
     }
-  },
-  "config": {
-    "defaultSheet": "bea992b31b6a5359",
-    "settings": {}
   }
 }
