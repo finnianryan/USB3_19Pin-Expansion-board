@@ -13,11 +13,14 @@
   "g_ticket": 1,
   "boards": [],
   "block_symbol_attrs_groups": {},
-  "default_sheet": "",
+  "default_sheet": "bea992b31b6a5359",
   "branch_uuid": "",
   "pcb_count": 0,
   "format": "folder",
-  "config": "{\"type\":\"DOCHEAD\"}||{\"docType\":\"BOARD\",\"client\":\"4d757e4c85d3ed65\",\"uuid\":\"68fac588bd1a3f71\",\"updateTime\":1791027569090,\"version\":\"1791027569090\",\"editVersion\":\"4.1.60\",\"user\":{}}|\n{\"type\":\"META\",\"ticket\":2,\"id\":\"META\"}||{\"title\":\"Board1\",\"zIndex\":1}|\n{\"type\":\"DOCHEAD\"}||{\"docType\":\"CONFIG\",\"client\":\"4d757e4c85d3ed65\",\"uuid\":\"CONFIG\",\"updateTime\":1791027569087,\"version\":\"1791027569087\",\"editVersion\":\"4.1.60\",\"user\":{\"uuid\":\"1ae07b8742964756beb3a4649f081176\",\"nickname\":\"\",\"username\":\"\"}}|\n{\"type\":\"META\",\"ticket\":1,\"id\":\"META\"}||{\"defaultSheet\":\"bea992b31b6a5359\"}",
+  "config": {
+    "defaultSheet": "bea992b31b6a5359",
+    "settings": {}
+  },
   "profile": {
     "boards": {
       "68fac588bd1a3f71": {
@@ -32,8 +35,8 @@
         "name": "Schematic1",
         "board": "68fac588bd1a3f71",
         "source": "",
-        "version": "1790925183934",
-        "updateTime": 1790925183934
+        "version": "1790925184764",
+        "updateTime": 1790925184764
       }
     },
     "sheets": {
@@ -52,11 +55,10 @@
         "uuid": "14a8ecd069a5abfa",
         "title": "PCB_USB3_Expansion_backup_before_layout",
         "board": "",
-        "zIndex": null,
         "parent_uuid": "",
         "source": "",
-        "version": "1791032221080",
-        "updateTime": 1791032221080
+        "version": "1791103267967",
+        "updateTime": 1791103267967
       }
     },
     "panels": {
@@ -68,7 +70,27 @@
     },
     "blockSymbols": {},
     "owner": {
-      "uuid": ""
+      "uuid": "1ae07b8742964756beb3a4649f081176"
+    },
+    "simSchematics": {
+      "ac83c622f00bfa11": {
+        "uuid": "ac83c622f00bfa11",
+        "title": "Simulation1",
+        "source": "",
+        "version": "1791017145072",
+        "updateTime": 1791017145072
+      }
+    },
+    "simulations": {
+      "dd3f825d3df4d5bc": {
+        "uuid": "dd3f825d3df4d5bc",
+        "title": "USB3_Simulation",
+        "simSchematic": "ac83c622f00bfa11",
+        "docType": 8,
+        "zIndex": 1,
+        "source": "",
+        "version": "1791017145072"
+      }
     }
   }
 }
